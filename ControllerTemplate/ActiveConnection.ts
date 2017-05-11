@@ -1,0 +1,1 @@
+var drone = new ScaleDrone(randomKey);
