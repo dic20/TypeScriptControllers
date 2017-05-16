@@ -5,8 +5,8 @@ class Controller {
     }
 
     // force screen to be in the orientation described by the string parameter
-    forceScreenOrientation(orientation:string) {
-        
+    public forceScreenOrientation = (orientation:string): void => {
+
     }
 
     
